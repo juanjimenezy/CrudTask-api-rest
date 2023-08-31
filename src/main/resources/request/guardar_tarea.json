@@ -1,0 +1,13 @@
+{
+	"nombre": "HU_FCRE_03",
+	"porcentaje": 2,
+	"sprint": 5,
+	"estado": "NUEVA",
+	"celula": {
+		"id": 1
+	},
+	"persona": {
+		"id": 1
+
+	}
+}
